@@ -1,13 +1,13 @@
 # chatapp
 A messaging application built in express, socket io, react js and mongodb
 
-##frontend
-> cd frontend
-> npm install 
-> npm run dev
+## frontend
+> cd frontend <br/>
+> npm install <br/>
+> npm run dev<br/>
 
-##backend
->cd backend
->npm install
->npm start
+## backend
+>cd backend <br/>
+>npm install <br/>
+>npm start <br/>
 
